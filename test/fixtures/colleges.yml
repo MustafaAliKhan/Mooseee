@@ -4,10 +4,8 @@ one:
   name: MyString
   location: MyString
   description: MyString
-  string: MyString
 
 two:
   name: MyString
   location: MyString
   description: MyString
-  string: MyString

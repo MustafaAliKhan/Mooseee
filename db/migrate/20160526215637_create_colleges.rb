@@ -4,7 +4,6 @@ class CreateColleges < ActiveRecord::Migration
       t.string :name
       t.string :location
       t.string :description
-      t.string :string
 
       t.timestamps null: false
     end
