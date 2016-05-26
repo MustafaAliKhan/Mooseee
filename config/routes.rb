@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :colleges
   get 'pages/home'
 
   get 'pages/home'

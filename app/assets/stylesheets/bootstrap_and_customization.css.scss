@@ -1,3 +1,13 @@
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
 
-$form-controll-inline-width: 80%;
+.drop-down-form{
+	width: 75%;
+	padding-right: 10px;
+	float:left;
+	text-align: center;
+}
+.clear {
+	clear: both;
+}
+$jumbotron-bg: #EEDDCC;
