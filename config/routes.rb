@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
   resources :colleges
+  resources :colleges
   get 'pages/home'
   root "pages#home"
   # The priority is based upon order of creation: first created -> highest priority.
