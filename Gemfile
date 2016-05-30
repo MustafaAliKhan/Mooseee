@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '~> 3.5.0'
 gem 'http', '~>2.0.1'
-
+gem 'google-api-client', '~> 0.9.6'
 group :development, :test do
   gem 'byebug'
 end
